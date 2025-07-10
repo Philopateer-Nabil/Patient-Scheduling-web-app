@@ -9,7 +9,6 @@ This project provides a web-based application built with Streamlit to optimize p
   * **Resource Utilization Analysis:** After optimization, the application displays key metrics, including a detailed schedule, a list of unscheduled patients, and doctor utilization percentages with a corresponding bar chart.
   * **Interactive Web Interface:** A user-friendly interface built with Streamlit allows for easy data loading, optimization, and visualization of the results.
 
-## Demo
 
 ## How It Works
 
