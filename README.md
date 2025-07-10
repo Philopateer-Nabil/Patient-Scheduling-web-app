@@ -36,8 +36,8 @@ The optimization model aims to maximize the total number of scheduled appointmen
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Philopateer-Nabil/Patient-Scheduling.git
-    cd Patient-Scheduling
+    git clone https://github.com/Philopateer-Nabil/Patient-Scheduling-web-app.git
+    cd Patient-Scheduling-web-app
     ```
 
 2.  **Install the required Python libraries:**
