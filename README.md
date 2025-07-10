@@ -103,17 +103,5 @@ To use your own data, the CSV files must have the following columns:
       * `doctor_name`: The name of the doctor.
       * `available_slots`: A semicolon-separated string of available time slots in `HH:MM` format (e.g., "09:00;09:30;11:00").
 
-## Production Deployment
 
-For a production-level deployment, consider the following best practices:
-
-- Use a process manager (e.g., systemd, supervisord) or a containerization platform (e.g., Docker) to run the Streamlit app as a service.
-- Set up HTTPS using a reverse proxy (e.g., Nginx, Caddy) for secure access.
-- Configure environment variables and secrets securely.
-- Monitor resource usage and logs for reliability.
-- For best results, install dependencies using a requirements file:
-
-```bash
-pip install -r requirements.txt
-```
 
