@@ -59,7 +59,7 @@ The optimization model aims to maximize the total number of scheduled appointmen
     streamlit run app.py
     ```
 
-2.  **Open your web browser** and navigate to the local URL provided by Streamlit (usually `http://localhost:8501`).
+2.  **Open your web browser** and navigate to the local URL provided by Streamlit.
 
 ## How to Use the App
 
