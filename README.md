@@ -117,12 +117,3 @@ For a production-level deployment, consider the following best practices:
 pip install -r requirements.txt
 ```
 
-## Custom Theme
-
-This application now features a modern, production-ready interface with a custom color palette:
-- **Background:** #111111
-- **Sidebar:** #2F2F2F
-- **Text:** #F6F6F6
-- **Accent/Primary:** #FFCB74
-
-All UI elements, including buttons, tables, and charts, are styled for a cohesive and visually appealing experience.
